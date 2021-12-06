@@ -1,1 +1,1 @@
-This code is written for college practical if you are visiting for learn or for your college file becasur it may be different. Their are some elements are from HTML 4.0  whic are not supported in HTML 5. so be careful you can confuse your self due to some older elements.
+This code is written for college practical if you are visiting for learn or for your college file because it may be different . Their are some elements are from HTML 4.0  whic are not supported in HTML 5. so be careful you can confuse your self due to some older elements.
